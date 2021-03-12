@@ -28,4 +28,10 @@ This directory shows the development of a label for a beer called _Death Valley 
 
 **Link to the directory:** https://github.com/nilostolte/Vector-Art/tree/main/Death%20Valley
 
+### Brexit Bitter (aka Selling England By the Pint)
+
+This directory shows the label for a beer called _Brexit Bitter_ as well as _Selling England By the Pint_. The design is quite simple
+and the choices are commented.
+
+![sellingengland](https://user-images.githubusercontent.com/80269251/111000304-ca9eec80-834f-11eb-80fd-72c49881282f.png)
 
