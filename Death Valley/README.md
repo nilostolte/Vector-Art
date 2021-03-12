@@ -81,7 +81,7 @@ The bisector vector between the current part and the next is calculated (by addi
 the center and the vector calculated through the function), scaled down using the constant **m1** and added to the central point. 
 The resulting point is then duplicated. These two points are the control points of the bezier curve that is being defined. Its final
 point is the point obtained by adding the central point to the vector of the next part calculated using the function left in the 
-stack. The bezier curve starting at the currentpoint is then drawn.
+stack. The bezier curve starting at the currentpoint is then drawn using **curveto**.
 
 This loop continues until the last (9th) part has been drawn. In this case this _path_ is filled with a yellow color.
 
