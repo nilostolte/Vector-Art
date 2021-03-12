@@ -24,8 +24,8 @@ This directory shows the development of a label for a beer called _Dark Lager_. 
 
 This directory shows the development of a label for a beer called _Death Valley River_. It shows all the steps to acquire the final label below.
 
-![DeathValley](https://user-images.githubusercontent.com/80269251/110996994-c15f5100-834a-11eb-9acd-aad27660dc43.png)
+![DeathValley](https://user-images.githubusercontent.com/80269251/110998713-3e8bc580-834d-11eb-9b3b-59c94cfd69a4.png)
 
-**Link to the directory:** ![DeathValley](https://user-images.githubusercontent.com/80269251/110998713-3e8bc580-834d-11eb-9b3b-59c94cfd69a4.png)
+**Link to the directory:** https://github.com/nilostolte/Vector-Art/tree/main/Death%20Valley
 
 
