@@ -47,7 +47,7 @@ and the choices are commented.
 
 **Link to the directory:** https://github.com/nilostolte/Vector-Art/tree/main/Selling%20England%20By%20The%20Pint
 
-## Kiwi IPA
+### Kiwi IPA
 
 This directory shows the label for a beer called _Kiwi IPA_. The design is quite simple
 and the choices are commented.
