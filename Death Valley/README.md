@@ -1,6 +1,6 @@
 ## Death Valley
 
-![DeathValley](https://user-images.githubusercontent.com/80269251/110987050-88b87b00-833c-11eb-8ee9-912c5ed5e387.png)
+![DeathValley](https://user-images.githubusercontent.com/80269251/110996994-c15f5100-834a-11eb-9acd-aad27660dc43.png)
 
 This design started with a photo of the Death Valley
 
