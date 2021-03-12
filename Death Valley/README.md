@@ -34,7 +34,7 @@ This has been coded in PostScript as shown:
 	/fin 360 ia sub def
 >>
 begin
-gs
+gsave
 0 0 .8 0 setcmykcolor
 /ang 0 def
 
@@ -50,7 +50,7 @@ sol exch r1 add exch moveto
 	ang fin gt { exit } if
 } loop
 fill
-gr
+grestore
 end
 ```
 The basic algorithm behind this code is to operate with 2D vectors and angle incrmentation. Initially, a library to operate 
@@ -80,10 +80,10 @@ axes as indicated. It is executed (**exec**) because it is defined as a function
 The bisector vector between the current part and the next is calculated (by adding the vector between the currentpoint and 
 the center and the vector calculated through the function), scaled down using the constant **m1** and added to the central point. 
 The resulting point is then duplicated. These two points are the control points of the bezier curve that is being defined. Its final
-point is the point obtained by adding the vector of the next part to central point. The bezier curve starting at the crrent point 
+point is the point obtained by adding the vector of the next part to central point. The bezier curve starting at the currentpoint 
 is then drawn.
 
-This loop continues until the last (9th) part has been drawn. I n this case the _path_ is filled with a yellow color.
+This loop continues until the last (9th) part has been drawn. In this case this _path_ is filled with a yellow color.
 
 
 
