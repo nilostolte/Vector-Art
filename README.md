@@ -4,6 +4,15 @@ please contact me by LinkedIn.
 
 Each different design project of this protofolio is stored in a different directory that can be accessed directly or through the link supplied here.
 
+## Beer Labels Designs
+
+All these beer labels were designed entirely from scratch, from their names until the last details of the label. Giving attractive and 
+fun names is often a good strategy for maketing a product. Combining with modern, unusual, and attractive artwork can easily
+boost product acceptability. Here are some samples of the creativity involved in these designs.
+
+![touteslesetiquettes](https://user-images.githubusercontent.com/80269251/111004449-130dd880-8357-11eb-972c-35b9618ce2ac.jpg)
+
+
 ### Colt 45 (_The Gunner Choice_ Design)
 
 This directory shows the development of a label for a beer called _The Gunner Choice_. It shows all the design features and the reason why they have been introduced.
