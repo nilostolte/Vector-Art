@@ -22,7 +22,7 @@ This directory shows the development of a label for a beer called _Dark Lager_. 
 
 ### Death Valley
 
-This directory shows the development of a label for a beer called _Dark Lager_. It shows all the steps to acquire the final label below.
+This directory shows the development of a label for a beer called _Death Valley River_. It shows all the steps to acquire the final label below.
 
 ![DeathValley](https://user-images.githubusercontent.com/80269251/110996994-c15f5100-834a-11eb-9acd-aad27660dc43.png)
 
