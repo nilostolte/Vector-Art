@@ -17,7 +17,7 @@ And then vectorized
 After the vectorization, the sun disappeared. This problem has been solved by generating a stylized sun with the brewery logo. 
 This has been coded in PostScript as shown:
 
-```
+```PostScript
 /sol { 140 175 } def
 <<
 	/r1 60
