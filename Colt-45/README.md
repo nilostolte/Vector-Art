@@ -27,6 +27,6 @@ Another important aspect of the design is the background pattern that recalls a 
 
 Finally the name of the beer is designed with a modern font where the letters are distributed as concentric circles
 as in the case of a pistol cylinder. Eventually, the appropriate colors are chosen for each element. Different tonalities 
-of brown does the trick, giving the impression of a dusty environment.
+of brown does the trick, giving the impression of a dusty environment, and it also corresponds to the color of the beer, which is a Pale Ale.
 
 ![gunners](https://user-images.githubusercontent.com/80269251/110975811-353f3080-832e-11eb-9869-4fbce772667f.png)
