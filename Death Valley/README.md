@@ -63,7 +63,7 @@ is the radius, limiting the size of the figure
 It is the incremental angle. Since its value is 40, it indicates this figure will have 9 parts, which are the sun _"
 spikes"_.
 3. **m1** <br>
-Is just a contant to decrease the langth of the bisector vector
+Is just a constant to decrease the length of the bisector vector
 4. **fin** <br>
 fin = 360 - ia, the last part of the figure which actually ientifies the end of the loop
 5. **sol** <br>
