@@ -55,7 +55,7 @@ end
 ```
 The basic algorithm behind this code is to operate with 2D vectors and angle incrementation. Initially, a library to operate 
 with vectors appears between << and >> (which in PostScript diefines a _dictionary_, which works similarly to a class in any 
-other progrming language). It also contains some data to define the graphics, where
+other programming language). It also contains some data to define the graphics, where
 
 1. **r1** <br>
 is the radius of limiting the size of the figure
