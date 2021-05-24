@@ -65,7 +65,7 @@ spikes"_.
 3. **m1** <br>
 Is just a constant to decrease the length of the bisector vector
 4. **fin** <br>
-fin = 360 - ia, the last part of the figure which actually ientifies the end of the loop
+fin = 360 - ia, the last part of the figure which actually identifies the end of the loop
 5. **sol** <br>
 This is a global variable that stores the coordinates of the center of the figure.
 
