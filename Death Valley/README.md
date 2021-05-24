@@ -58,7 +58,7 @@ with vectors appears between << and >> (which in PostScript diefines a _dictiona
 other programming language). It also contains some data to define the graphics, where
 
 1. **r1** <br>
-is the radius of limiting the size of the figure
+is the radius, limiting the size of the figure
 2. **ia** <br>
 It is the incremental angle. Since its value is 40, it indicates this figure will have 9 parts, which are the sun _"
 spikes"_.
