@@ -28,6 +28,8 @@ boost product acceptability. Here are some samples of the creativity involved in
 
 ![DarkLager](https://user-images.githubusercontent.com/80269251/110971881-6701c880-8329-11eb-8322-f07f2845881c.png)
 
+**Link to the directory:** https://github.com/nilostolte/Vector-Art/tree/main/Darth-Vader
+
 ### Death Valley
 
 [This directory](https://github.com/nilostolte/Vector-Art/tree/main/Death%20Valley) shows the development of a label for a beer called _Death Valley River_. It shows all the steps to acquire the final label below. It lso shows some PostScript code to create a feature for the design.
