@@ -2,7 +2,7 @@
 Vector Art portfolio showing several vector graphics designs I have developed for different reasons. If any of this material interest you, 
 please contact me by LinkedIn.
 
-Each different design project of this protofolio is stored in a different directory that can be accessed directly or through the link supplied here.
+Each different design project in this protofolio is stored in a different directory that can be accessed directly or through the link supplied here.
 <br>
 
 ## Beer Label Designs
