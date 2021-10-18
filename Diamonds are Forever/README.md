@@ -16,7 +16,7 @@ The resulting diamond is the most aesthetically pleasing:
 <img src="https://user-images.githubusercontent.com/80269251/137802304-1203179d-91e3-4dfd-a1ee-9a7ad24ab0c8.png">
 </p>
 
-This is another example of a diamond with polygins with 30 equal sizes. As one can see, it is not 
+This is another example of a diamond with polygons with 30 equal sizes. As one can see, it is not 
 as attractive as the previous:
 
 <p align="center">
