@@ -62,9 +62,14 @@ These are other disgns that were not used as beer labels.
 
 ### Diamonds are Forever
 
-[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Diamonds%20are%20Forever#diamonds-are-forever) is a design where the basic idea was a James Bond movie of the same name.
+[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Diamonds%20are%20Forever#diamonds-are-forever) is a design where the basic idea was a James Bond movie with the same name.
 
 ![image](https://user-images.githubusercontent.com/80269251/137807455-a6f9ea7e-4256-49c4-a0e7-2a1668924d22.png)
 
+### North Shore
+
+[This directory](https://github.com/nilostolte/Vector-Art/tree/main/North%20Shore#north-shore) is a sketch based on a surf environment. 
+
+![image](https://user-images.githubusercontent.com/80269251/137808155-115deb14-f658-47ae-881b-a42a515c968b.png)
 
 
