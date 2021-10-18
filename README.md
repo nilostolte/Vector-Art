@@ -55,3 +55,16 @@ and the choices are commented.
 ![kiwiipa](https://user-images.githubusercontent.com/80269251/111002284-2ae35d80-8353-11eb-8d1b-2f8a651322d9.png)
 
 **Link to the directory: https://github.com/nilostolte/Vector-Art/tree/main/Kiwi%20IPA
+
+## Other Designs
+
+These are other disgns that were not used as beer labels.
+
+### Diamonds are Forever
+
+[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Diamonds%20are%20Forever#diamonds-are-forever) is a design where the basic idea was a James Bond movie of the same name.
+
+![image](https://user-images.githubusercontent.com/80269251/137807455-a6f9ea7e-4256-49c4-a0e7-2a1668924d22.png)
+
+
+
