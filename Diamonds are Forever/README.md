@@ -7,8 +7,7 @@
 ## 3D Diamond
 
 The diamond was produced using two poligons with 17 equal sides, the top (the small polygon) and the middle part 
-(the big polygon) of the diamond, and the point defining its bottom and then visualaizing it in the space. This 
-was written in PostScript.
+(the big polygon) of the diamond, and the point defining its bottom and then visualaizing it in the space using a 3D visualization software written in PostScript.
 
 The resulting diamond is the most aesthetically pleasing:
 
