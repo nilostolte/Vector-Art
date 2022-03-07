@@ -9,7 +9,7 @@ This design is a combination between several complex typography manipulations of
 
 ### Mexican Hat
 
-It comes from this image dowloaded form the internet:
+It comes from this image dowloaded from the internet:
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/80269251/157078417-c540b29c-c3c4-48a0-a27b-4b51de88fb5d.jpg">
@@ -26,4 +26,7 @@ Once vectorized we color all features again:
 <p align="left">
   <img src="https://user-images.githubusercontent.com/80269251/157093296-97f96cb3-07cd-46f6-b554-41166addc373.png" width="626" height="299">
 </p>
+
+As a background image the colors are too intense. The colors are then faded out to be used as a background image as seen in the final art above.
+
 
