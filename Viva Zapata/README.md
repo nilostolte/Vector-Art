@@ -1,1 +1,29 @@
 
+## Viva Zapata
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/80269251/157075083-03f20635-e60b-4e1c-bc63-f52a9d95303e.png" width="511" height="365">
+</p>
+
+This design is a combination between several complex typography manipulations of glyphs of the font Egypt22 but many other design features like the vectorization of a mexican hat and the reuse of the PostScript code for the sun.
+
+### Mexican Hat
+
+It comes from this image dowloaded form the internet:
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/80269251/157078417-c540b29c-c3c4-48a0-a27b-4b51de88fb5d.jpg">
+</p>
+
+Which we then transform to a wireframe black and white image by simply modifying the colors one by one to white, which is afterwards vectorized:
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/80269251/157092302-ad5d2bd1-e743-4cd2-bfd8-213f2605d2e9.jpg">
+</p>
+
+Once vectorized we color all features again:
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/80269251/157093296-97f96cb3-07cd-46f6-b554-41166addc373.png" width="626" height="299">
+</p>
+
