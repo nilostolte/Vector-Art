@@ -42,11 +42,14 @@ The the image is vectorized using Inkscape:
   <img src="https://user-images.githubusercontent.com/80269251/157275693-cbab2364-6c9c-4501-8aff-d1545f9d8b1d.png" width="443" height="455">
 </p>
 
-Since this design is very small only the star is fixed by hand:
+Since this design is scaled to a very small size only the star needs to be fixed by hand:
 
 ![my zapata vector](https://user-images.githubusercontent.com/80269251/157277620-ffc54feb-3883-4772-88f9-c5a6a11766b9.png)
 
+### Typographic Details
 
+The interesting typography details are the paint dripping effect in the letters as shown below. These effects are added to the original glyphs and producing new glyphs:
 
-
-
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/80269251/157312350-cf64d662-db2b-4bc9-9342-66aa71b5e1ee.png">
+</p>
