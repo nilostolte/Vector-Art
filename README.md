@@ -50,7 +50,7 @@ and the choices are commented.
 
 ### Viva Zapata
 
-[This directory](https://github.com/nilostolte/Vector-Art/blob/main/Viva%20Zapata/README.md#viva-zapata) shows the label ror beer called _Viva Zapata_.
+[This directory](https://github.com/nilostolte/Vector-Art/blob/main/Viva%20Zapata/README.md#viva-zapata) shows the label for the beer called _Viva Zapata_.
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/80269251/157075083-03f20635-e60b-4e1c-bc63-f52a9d95303e.png" width="511" height="365">
