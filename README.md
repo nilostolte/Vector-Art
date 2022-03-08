@@ -47,6 +47,15 @@ and the choices are commented.
 
 **Link to the directory:** https://github.com/nilostolte/Vector-Art/tree/main/Selling%20England%20By%20The%20Pint
 
+
+### Viva Zapata
+
+[This directory](https://github.com/nilostolte/Vector-Art/blob/main/Viva%20Zapata/README.md#viva-zapata) shows the label ror beer called _Viva Zapata_.
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/80269251/157075083-03f20635-e60b-4e1c-bc63-f52a9d95303e.png" width="511" height="365">
+</p>
+
 ### Kiwi IPA
 
 [This directory](https://github.com/nilostolte/Vector-Art/tree/main/Kiwi%20IPA) shows the label for a beer called _Kiwi IPA_. The design is quite simple
