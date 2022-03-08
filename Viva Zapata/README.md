@@ -48,8 +48,8 @@ Since this design is scaled to a very small size only the star needs to be fixed
 
 ### Typographic Details
 
-The interesting typography details are the paint dripping effect in the letters as shown below. These effects are added to the original glyphs and producing new glyphs:
+The interesting typography details are the paint dripping effect in the letters as shown below. These effects were added to the original glyphs to produce new glyphs:
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/80269251/157312350-cf64d662-db2b-4bc9-9342-66aa71b5e1ee.png">
+  <img src="https://user-images.githubusercontent.com/80269251/157312350-cf64d662-db2b-4bc9-9342-66aa71b5e1ee.png" width="521" height="503" >
 </p>
