@@ -10,7 +10,6 @@ This design is a combination between several complex typography manipulations of
 ### Mexican Hat
 
 It comes from this image dowloaded from the internet:
-
 <p align="left">
   <img src="https://user-images.githubusercontent.com/80269251/157078417-c540b29c-c3c4-48a0-a27b-4b51de88fb5d.jpg">
 </p>
@@ -28,5 +27,26 @@ Once vectorized we color all features again:
 </p>
 
 As a background image the colors are too intense. The colors are then faded out to be used as a background image as seen in the final art above.
+
+### Zapata
+
+This is an image dowloaded from the web:
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/80269251/157272849-ef65c2de-80e0-4abd-bc98-e47b8c4f9a38.png" width="443" height="520">
+</p>
+
+The the image is vectorized using Inkscape:
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/80269251/157275693-cbab2364-6c9c-4501-8aff-d1545f9d8b1d.png" width="443" height="455">
+</p>
+
+Since this design is very small only the star is fixed by hand:
+
+![my zapata vector](https://user-images.githubusercontent.com/80269251/157277620-ffc54feb-3883-4772-88f9-c5a6a11766b9.png)
+
+
+
 
 
