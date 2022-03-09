@@ -1,6 +1,6 @@
 # Vector-Art
 Vector Art portfolio showing several vector graphics designs I have developed for different reasons. If any of this material interest you, 
-please contact me by LinkedIn.
+please contact me in [Discord](https://discord.gg/ZZGWnZBups) or [DEV](https://discord.gg/ZZGWnZBups).
 
 Each different design project in this protofolio is stored in a different directory that can be accessed directly or through the link supplied here.
 <br>
