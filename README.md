@@ -14,7 +14,7 @@ boost product acceptability. Here are some samples of the creativity involved in
 ![touteslesetiquettes](https://user-images.githubusercontent.com/80269251/111004449-130dd880-8357-11eb-972c-35b9618ce2ac.jpg)
 <br>
 
-### Colt 45 (_The Gunner Choice_ Design)
+### Colt 45 (_The Gunner's Choice_ Design)
 
 [This directory](https://github.com/nilostolte/Vector-Art/tree/main/Colt-45) shows the development of a label for a beer called _The Gunner's Choice_. It shows all the design features and the reason why they have been introduced.
 
