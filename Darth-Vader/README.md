@@ -1,3 +1,6 @@
+## Dark Lager
+
+![DarkLager](https://user-images.githubusercontent.com/80269251/110971881-6701c880-8329-11eb-8322-f07f2845881c.png)
 
 ## Darth Vader Design
 
@@ -8,9 +11,6 @@ This design was used as part of a beer label called Dark Lager. Here several tec
 The choice of this Star Wars character is to play with the words "I am your Lager" to make fun of the famous similar sentence of the
 film. A pertinent translation in French was found to be "Je suis ta bière", which is phonetically similar to "Je suis ton père", which was the actual translation in French of the same sentence.
 
-### Final Beer Label
-
-![DarkLager](https://user-images.githubusercontent.com/80269251/110971881-6701c880-8329-11eb-8322-f07f2845881c.png)
 
 
 
