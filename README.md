@@ -32,7 +32,7 @@ boost product acceptability. Here are some samples of the creativity involved in
 
 ### Death Valley River
 
-[This directory](https://github.com/nilostolte/Vector-Art/edit/main/Death%20Valley/README.md#death-valley-river) shows the development of a label for a beer called _Death Valley River_. It shows all the steps to acquire the final label below. It lso shows some PostScript code to create a feature for the design.
+[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Death%20Valley#death-valley-river) shows the development of a label for a beer called _Death Valley River_. It shows all the steps to acquire the final label below. It lso shows some PostScript code to create a feature for the design.
 
 ![DeathValley](https://user-images.githubusercontent.com/80269251/110998713-3e8bc580-834d-11eb-9b3b-59c94cfd69a4.png)
 
