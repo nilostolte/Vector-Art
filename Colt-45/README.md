@@ -1,4 +1,12 @@
-## Colt 45
+## The Gunner's Choice
+
+The name of the beer is designed with a modern font where the letters are distributed as concentric circles
+as in the case of a pistol cylinder. Eventually, the appropriate colors are chosen for each element. Different tonalities 
+of brown does the trick, giving the impression of a dusty environment, and it also corresponds to the color of the beer, which is a Pale Ale.
+
+![gunners](https://user-images.githubusercontent.com/80269251/110975811-353f3080-832e-11eb-9869-4fbce772667f.png)
+
+### Colt 45
 
 This is a representation of a colt 45 from the 1800's to be used in a label of a beer called _The Gunner's Choice_. 
 The general idea in this design was to give an idea of the old western. Several details give additional 
@@ -22,11 +30,3 @@ to be used in a reduced size, the design is more rudimentary, with few details o
 Another important aspect of the design is the background pattern that recalls a saloon wallpaper.
 
 ![background](https://user-images.githubusercontent.com/80269251/110976346-c7dfcf80-832e-11eb-8787-c8c816bc1ba5.png)
-
-### Final Design
-
-Finally the name of the beer is designed with a modern font where the letters are distributed as concentric circles
-as in the case of a pistol cylinder. Eventually, the appropriate colors are chosen for each element. Different tonalities 
-of brown does the trick, giving the impression of a dusty environment, and it also corresponds to the color of the beer, which is a Pale Ale.
-
-![gunners](https://user-images.githubusercontent.com/80269251/110975811-353f3080-832e-11eb-9869-4fbce772667f.png)
