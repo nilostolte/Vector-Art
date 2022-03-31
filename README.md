@@ -58,7 +58,7 @@ and the choices are commented.
 
 ### Kiwi IPA
 
-[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Kiwi%20IPA) shows the label for a beer called _Kiwi IPA_. The design is quite simple
+[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Kiwi%20IPA#kiwi-ipa) shows the label for a beer called _Kiwi IPA_. The design is quite simple
 and the choices are commented.
 
 ![kiwiipa](https://user-images.githubusercontent.com/80269251/111002284-2ae35d80-8353-11eb-8d1b-2f8a651322d9.png)
