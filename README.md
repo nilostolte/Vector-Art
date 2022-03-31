@@ -24,7 +24,7 @@ boost product acceptability. Here are some samples of the creativity involved in
 
 ### Dark Lager
 
-[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Darth-Vader) shows the development of a label for a beer called _Dark Lager_. It shows all the design features and the reason why they have been introduced.
+[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Darth-Vader#dark-lager) shows the development of a label for a beer called _Dark Lager_. It shows all the design features and the reason why they have been introduced.
 
 ![DarkLager](https://user-images.githubusercontent.com/80269251/110971881-6701c880-8329-11eb-8322-f07f2845881c.png)
 
