@@ -20,9 +20,9 @@ Each different design project in this protofolio is stored in a different direct
 Vector graphics really excells in technical illustrations. Here are examples of technical illustrations in SVG I have done in the past:
 
 ### Octree
-Below the correspondence between the [octree](https://github.com/nilostolte/Vector-Art/edit/main/Technical%20Illustrations/README.md#octree) data structure and its representation in space is shown.
+Below the correspondence between the [octree](https://github.com/nilostolte/Vector-Art/blob/main/Technical%20Illustrations/README.md#octree) data structure and its representation in space is shown.
 <p align="center">
-  <a href="https://github.com/nilostolte/Vector-Art/edit/main/Technical%20Illustrations/README.md#octree"><img src="Technical Illustrations/octree-struct.svg" style="width:60%; height: 60%;"></a>
+  <a href="https://github.com/nilostolte/Vector-Art/blob/main/Technical%20Illustrations/README.md#octree"><img src="Technical Illustrations/octree-struct.svg" style="width:60%; height: 60%;"></a>
 </p>
 
 
