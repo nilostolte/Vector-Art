@@ -23,7 +23,7 @@ Vector graphics really excells in technical illustrations. Here are examples of 
 ### Octree
 Below the correspondence between the [octree](https://github.com/nilostolte/Vector-Art/blob/main/Technical%20Illustrations/README.md#octree) data structure and its representation in space is shown.
 <p align="center">
-  <a href="https://github.com/nilostolte/Vector-Art/blob/main/Technical%20Illustrations/README.md#octree"><img src="Technical Illustrations/octree-struct.svg" style="width:60%; height: 60%;"></a>
+  <a href="https://github.com/nilostolte/Vector-Art/tree/main/Technical%20Illustrations#octree"><img src="Technical Illustrations/octree-struct.svg" style="width:60%; height: 60%;"></a>
 </p>
 
 
@@ -42,19 +42,19 @@ boost product acceptability. Here are some samples of the creativity involved in
 
 ### The Gunner's Choice
 
-[This directory](https://github.com/nilostolte/Vector-Art/blob/main/Colt-45/README.md#the-gunners-choice) shows the development of a label for a beer called _The Gunner's Choice_. It shows all the design features and the reason why they have been introduced.
+[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Colt-45) shows the development of a label for a beer called [_The Gunner's Choice_](https://github.com/nilostolte/Vector-Art/tree/main/Colt-45#the-gunners-choice). It shows all the design features and the reason why they have been introduced.
 
-![gunners](https://user-images.githubusercontent.com/80269251/110975811-353f3080-832e-11eb-9869-4fbce772667f.png)
-
-**Link to the directory:** https://github.com/nilostolte/Vector-Art/tree/main/Colt-45
+<p align="center">
+  <a href="https://github.com/nilostolte/Vector-Art/blob/main/Colt-45/README.md#the-gunners-choice"><img src="https://user-images.githubusercontent.com/80269251/110975811-353f3080-832e-11eb-9869-4fbce772667f.png"></a>
+</p>
 
 ### Dark Lager
 
-[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Darth-Vader#dark-lager) shows the development of a label for a beer called _Dark Lager_. It shows all the design features and the reason why they have been introduced.
+[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Darth-Vader) shows the development of a label for a beer called [_Dark Lager_](https://github.com/nilostolte/Vector-Art/tree/main/Colt-45/Darth-Vader#dark-lager). It shows all the design features and the reason why they have been introduced.
 
-![DarkLager](https://user-images.githubusercontent.com/80269251/110971881-6701c880-8329-11eb-8322-f07f2845881c.png)
-
-**Link to the directory:** https://github.com/nilostolte/Vector-Art/tree/main/Darth-Vader
+<p align="center">
+  <a href="https://github.com/nilostolte/Vector-Art/tree/main/Colt-45/Darth-Vader#dark-lager"><img src="https://user-images.githubusercontent.com/80269251/110971881-6701c880-8329-11eb-8322-f07f2845881c.png"></a>
+</p>
 
 ### Death Valley River
 
