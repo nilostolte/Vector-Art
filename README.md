@@ -1,6 +1,7 @@
 # Vector-Art
 ★ &nbsp;[**Technical Illustrations**](https://github.com/nilostolte/Vector-Art/blob/main/README.md#technical-illustrations)\
 ★ &nbsp;[**Beer Label Designs**](https://github.com/nilostolte/Vector-Art/blob/main/README.md#beer-label-designs)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▻ [All Beer Labels](https://github.com/nilostolte/Vector-Art/blob/main/README.md#all-beers-designs)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▻ [The Gunner's Choice](https://github.com/nilostolte/Vector-Art/blob/main/README.md#the-gunners-choice)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▻ [Dark Lager](https://github.com/nilostolte/Vector-Art/blob/main/README.md#dark-lager)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▻ [Death Valley River](https://github.com/nilostolte/Vector-Art/blob/main/README.md#death-valley-river)\
@@ -30,7 +31,7 @@ Below the correspondence between the [octree](https://github.com/nilostolte/Vect
 
 All these beer labels were designed entirely from scratch, from their names until the last details of the label. Giving attractive and 
 fun names is often a good strategy for maketing a product. Combining with modern, unusual, and attractive artwork can easily
-boost product acceptability. Here are some samples of the creativity involved in these designs.
+boost product acceptability. Here are some samples of the creativity involved in these designs.<a name="all-beers-designs"></a>
 
 ![touteslesetiquettes](https://user-images.githubusercontent.com/80269251/111004449-130dd880-8357-11eb-972c-35b9618ce2ac.jpg)
 <br>
