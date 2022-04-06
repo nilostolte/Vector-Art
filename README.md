@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▻ [Death Valley River](https://github.com/nilostolte/Vector-Art/blob/main/README.md#death-valley-river)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▻ [Brexit Bitter (aka Selling England By the Pint)](https://github.com/nilostolte/Vector-Art/blob/main/README.md#brexit-bitter-aka-selling-england-by-the-pint)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▻ [Viva Zapata](https://github.com/nilostolte/Vector-Art/blob/main/README.md#viva-zapata)\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▻ [Kiwi IPA](https://github.com/nilostolte/Vector-Art/blob/main/README.md#https://github.com/nilostolte/Vector-Art/edit/main/README.md#kiwi-ipa)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▻ [Kiwi IPA](https://github.com/nilostolte/Vector-Art/blob/main/README.md#kiwi-ipa)\
 ★ &nbsp;[**Oher Designs**](https://github.com/nilostolte/Vector-Art/blob/main/README.md#other-designs)
 
 
