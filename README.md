@@ -1,9 +1,22 @@
 # Vector-Art
-Vector Art portfolio showing several vector graphics designs I have developed for different reasons. If any of this material interest you, 
-please contact me in [Discord](https://discord.gg/ZZGWnZBups) or [DEV](https://dev.to/nilostolte).
+Vector Art portfolio showing several vector graphics designs I have developed for different reasons. If any of this material interest you, please contact me in [Twitter](https://twitter.com/nilostolte).
 
 Each different design project in this protofolio is stored in a different directory that can be accessed directly or through the link supplied here.
 <br>
+## Summary
+★ &nbsp;[**Technical Illustrations**](https://github.com/nilostolte#introduction_html_anchor)\
+★ &nbsp;[**Beer Label Designs**](https://github.com/nilostolte#introduction_html_anchor)
+
+## Technical Illustrations
+
+Vector graphics really excells in technical illustrations. Here are examples of technical illustrations in SVG I have done in the past:
+
+### Octree
+Below the correspondence between the [octree](https://github.com/nilostolte/Vector-Art/edit/main/Technical%20Illustrations/README.md#octree) data structure and its representation in space is shown.
+<p align="center">
+  <a href="https://github.com/nilostolte/Vector-Art/edit/main/Technical%20Illustrations/README.md#octree"><img src="Technical Illustrations/octree-struct.svg" style="width:60%; height: 60%;"></a>
+</p>
+
 
 ## Beer Label Designs
 
