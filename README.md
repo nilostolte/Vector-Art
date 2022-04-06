@@ -45,7 +45,7 @@ boost product acceptability. Here are some samples of the creativity involved in
 [This directory](https://github.com/nilostolte/Vector-Art/tree/main/Colt-45) shows the development of a label for a beer called [_The Gunner's Choice_](https://github.com/nilostolte/Vector-Art/tree/main/Colt-45#the-gunners-choice). It shows all the design features and the reason why they have been introduced.
 
 <p align="center">
-  <a href="https://github.com/nilostolte/Vector-Art/blob/main/Colt-45/README.md#the-gunners-choice"><img src="https://user-images.githubusercontent.com/80269251/110975811-353f3080-832e-11eb-9869-4fbce772667f.png"></a>
+  <a href="https://github.com/nilostolte/Vector-Art/tree/main/Colt-45#the-gunners-choice"><img src="https://user-images.githubusercontent.com/80269251/110975811-353f3080-832e-11eb-9869-4fbce772667f.png"></a>
 </p>
 
 ### Dark Lager
@@ -58,38 +58,39 @@ boost product acceptability. Here are some samples of the creativity involved in
 
 ### Death Valley River
 
-[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Death%20Valley#death-valley-river) shows the development of a label for a beer called _Death Valley River_. It shows all the steps to acquire the final label below. It lso shows some PostScript code to create a feature for the design.
+[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Death%20Valley) shows the development of a label for a beer called [_Death Valley River_](https://github.com/nilostolte/Vector-Art/tree/main/Death%20Valley#death-valley-river). It shows all the steps to acquire the final label below. It lso shows some PostScript code to create a feature for the design.
 
-![DeathValley](https://user-images.githubusercontent.com/80269251/110998713-3e8bc580-834d-11eb-9b3b-59c94cfd69a4.png)
-
-**Link to the directory:** https://github.com/nilostolte/Vector-Art/tree/main/Death%20Valley
+<p align="center">
+  <a href="https://github.com/nilostolte/Vector-Art/tree/main/Death%20Valley#death-valley-river"><img src="https://user-images.githubusercontent.com/80269251/110998713-3e8bc580-834d-11eb-9b3b-59c94cfd69a4.png"></a>
+</p>
 
 ### Brexit Bitter (aka Selling England By the Pint)
 
-[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Selling%20England%20By%20The%20Pint) shows the label for a beer called _Brexit Bitter_ aka _Selling England By the Pint_. The design is quite simple
+[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Selling%20England%20By%20The%20Pint) shows the label for a beer called [_Brexit Bitter_ aka _Selling England By the Pint_](https://github.com/nilostolte/Vector-Art/tree/main/Selling%20England%20By%20The%20Pint#selling-england-by-the-pint). The design is quite simple
 and the choices are commented.
 
-![sellingengland](https://user-images.githubusercontent.com/80269251/111000304-ca9eec80-834f-11eb-80fd-72c49881282f.png)
 
-**Link to the directory:** https://github.com/nilostolte/Vector-Art/tree/main/Selling%20England%20By%20The%20Pint
-
+<p align="center">
+  <a href="https://github.com/nilostolte/Vector-Art/tree/main/Selling%20England%20By%20The%20Pinty#selling-england-by-the-pint"><img src="https://user-images.githubusercontent.com/80269251/111000304-ca9eec80-834f-11eb-80fd-72c49881282f.png"></a>
+</p>
 
 ### Viva Zapata
 
-[This directory](https://github.com/nilostolte/Vector-Art/blob/main/Viva%20Zapata/README.md#viva-zapata) shows the label for the beer called _Viva Zapata_.
+[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Viva%20Zapata) shows the label for the beer called [_Viva Zapata_](https://github.com/nilostolte/Vector-Art/tree/main/Viva%20Zapata#viva-zapata).
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/80269251/157075083-03f20635-e60b-4e1c-bc63-f52a9d95303e.png" width="511" height="365">
+<p align="center">
+  <a href="https://github.com/nilostolte/Vector-Art/tree/main/Viva%20Zapata#viva-zapata"><img src="https://user-images.githubusercontent.com/80269251/157075083-03f20635-e60b-4e1c-bc63-f52a9d95303e.png"></a>
 </p>
 
 ### Kiwi IPA
 
-[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Kiwi%20IPA#kiwi-ipa) shows the label for a beer called _Kiwi IPA_. The design is quite simple
+[This directory](https://github.com/nilostolte/Vector-Art/tree/main/Kiwi%20IPA) shows the label for a beer called [_Kiwi IPA_](https://github.com/nilostolte/Vector-Art/tree/main/Kiwi%20IPA#kiwi-ipa). The design is quite simple
 and the choices are commented.
 
-![kiwiipa](https://user-images.githubusercontent.com/80269251/111002284-2ae35d80-8353-11eb-8d1b-2f8a651322d9.png)
+<p align="center">
+  <a href="https://github.com/nilostolte/Vector-Art/tree/main/Kiwi%20IPA#kiwi-ipa"><img src="https://user-images.githubusercontent.com/80269251/111002284-2ae35d80-8353-11eb-8d1b-2f8a651322d9.png"></a>
+</p>
 
-**Link to the directory: https://github.com/nilostolte/Vector-Art/tree/main/Kiwi%20IPA
 
 ## Other Designs
 
