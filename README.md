@@ -1,11 +1,19 @@
 # Vector-Art
+★ &nbsp;[**Technical Illustrations**](https://github.com/nilostolte/Vector-Art/blob/main/README.md#technical-illustrations)\
+★ &nbsp;[**Beer Label Designs**](https://github.com/nilostolte/Vector-Art/blob/main/README.md#beer-label-designs)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▻ [The Gunner's Choice](https://github.com/nilostolte/Vector-Art/blob/main/README.md#the-gunners-choice)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▻ [Dark Lager](https://github.com/nilostolte/Vector-Art/blob/main/README.md#dark-lager)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▻ [Death Valley River](https://github.com/nilostolte/Vector-Art/blob/main/README.md#death-valley-river)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▻ [Brexit Bitter (aka Selling England By the Pint)](https://github.com/nilostolte/Vector-Art/blob/main/README.md#brexit-bitter-aka-selling-england-by-the-pint)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▻ [Viva Zapata](https://github.com/nilostolte/Vector-Art/blob/main/README.md#viva-zapata)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▻ [Kiwi IPA](https://github.com/nilostolte/Vector-Art/blob/main/README.md#https://github.com/nilostolte/Vector-Art/edit/main/README.md#kiwi-ipa)\
+★ &nbsp;[**Oher Designs**](https://github.com/nilostolte/Vector-Art/blob/main/README.md#other-designs)
+
+
 Vector Art portfolio showing several vector graphics designs I have developed for different reasons. If any of this material interest you, please contact me in [Twitter](https://twitter.com/nilostolte).
 
 Each different design project in this protofolio is stored in a different directory that can be accessed directly or through the link supplied here.
 <br>
-## Summary
-★ &nbsp;[**Technical Illustrations**](https://github.com/nilostolte/Vector-Art/blob/main/README.md#technical-illustrations)\
-★ &nbsp;[**Beer Label Designs**](https://github.com/nilostolte/Vector-Art/blob/main/README.md#beer-label-designs)
 
 ## Technical Illustrations
 
