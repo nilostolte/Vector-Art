@@ -4,8 +4,8 @@ Vector Art portfolio showing several vector graphics designs I have developed fo
 Each different design project in this protofolio is stored in a different directory that can be accessed directly or through the link supplied here.
 <br>
 ## Summary
-★ &nbsp;[**Technical Illustrations**](https://github.com/nilostolte#introduction_html_anchor)\
-★ &nbsp;[**Beer Label Designs**](https://github.com/nilostolte#introduction_html_anchor)
+★ &nbsp;[**Technical Illustrations**](https://github.com/nilostolte/Vector-Art/blob/main/README.md#technical-illustrations)\
+★ &nbsp;[**Beer Label Designs**](https://github.com/nilostolte/Vector-Art/blob/main/README.md#beer-label-designs)
 
 ## Technical Illustrations
 
