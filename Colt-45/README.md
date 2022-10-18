@@ -8,7 +8,7 @@ of brown does the trick, giving the impression of a dusty environment, and it al
 
 ### Colt 45
 
-This is a representation of a colt 45 from the 1800's to be used in a label of a beer called _The Gunner's Choice_. 
+This is a representation of a colt 45 from the 1800's to be used in this beer label. 
 The general idea in this design was to give an idea of the old western. Several details give additional 
 hints to enhance the impression of an old western ambience. The first one is of course the colt 45 which was
 completely elaborated by hand in PostScript language. Every detail in the weapon increases the realism and is important
