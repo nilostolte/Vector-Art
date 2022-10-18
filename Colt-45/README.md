@@ -10,9 +10,7 @@ of brown does the trick, giving the impression of a dusty environment, and it al
 
 This is a representation of a colt 45 from the 1800's to be used in this beer label. 
 The general idea in this design was to give an idea of the old western. Several details give additional 
-hints to enhance the impression of an old western ambience. The first one is of course the colt 45 which was
-completely elaborated by hand in PostScript language. Every detail in the weapon increases the realism and is important
-for a convincing overall design.
+hints to enhance the impression of an old western ambience. The first one is of course the colt 45 which was first vectorized from an existing image found on the web and then completely retouched by hand in PostScript language. Every detail in the weapon increases the realism and is important for a convincing overall design.
 
 ![mycolt](https://user-images.githubusercontent.com/80269251/110975091-4a678f80-832d-11eb-873b-d54e7df9dab3.png)
 
