@@ -18,10 +18,14 @@ hints to enhance the impression of an old western ambience. The first one is of 
 
 Another detail that enhances the impression we are in a western kind of environment is the bull skull. The design of this
 vector skull was based on a photograph of a true bull skull. Some features are reflected in respect to the middle vertical 
-line, but not every detail otherwise it would denounce a flagrant computer designed feature. Since this vector artwork was 
-to be used in a reduced size, the design is more rudimentary, with few details of visible size, so it can appear once it is reduced to its actual size. 
+line, but not every detail otherwise it would denounce a flagrant computer designed feature. 
 
 ![bull](https://user-images.githubusercontent.com/80269251/110975727-1b055280-832e-11eb-9762-25e2a109d14c.png)
+
+Since this vector artwork was to be used in a reduced size, the design is more rudimentary, with few details of visible
+size, so it can appear once it is reduced to its actual size.
+
+![image](https://user-images.githubusercontent.com/80269251/234410213-a94dc1a4-43a7-498e-bab5-2e48cc8d3413.png)
 
 ### Background
 
