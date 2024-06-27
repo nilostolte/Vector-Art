@@ -6,7 +6,7 @@ This design started with a photo of the Death Valley
 
 ![death-valley photo org](https://user-images.githubusercontent.com/80269251/110987171-b271a200-833c-11eb-81c8-48d8d7766e6f.jpg)
 
-Which was than transformed in black and white
+Which was then transformed in black and white
 
 ![death-valley photo nb](https://user-images.githubusercontent.com/80269251/110987228-c917f900-833c-11eb-8644-38fc554122d8.jpg)
 
