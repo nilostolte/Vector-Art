@@ -27,6 +27,14 @@ Below the correspondence between the [octree](https://github.com/nilostolte/Vect
 </p>
 
 
+This illustration first appeared as a [figure in my PhD thesis](https://github.com/nilostolte/Vector-Art/blob/main/fig_oct_rgben.pdf), that
+was entirely written in PostScript with 3D coordinates converted to 2D externally (probably by a program I wrote, which I can't find
+anymore), but with illumination calculated using a 3D directional light source in the PostScript code:
+
+<p align="center">
+   <img src="fig_oct_rgben.svg" style="width:60%;"></a>
+</p>
+
 ## Beer Label Designs
 
 All these beer labels were designed entirely from scratch, from their names until the last details of the label. Giving attractive and 
