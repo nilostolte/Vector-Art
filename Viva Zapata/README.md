@@ -5,7 +5,9 @@
   <img src="https://user-images.githubusercontent.com/80269251/157075083-03f20635-e60b-4e1c-bc63-f52a9d95303e.png" width="511" height="365">
 </p>
 
-This design is a combination between several complex typography manipulations of glyphs of the font Egypt22 but many other design features like the vectorization of a mexican hat and the reuse of the PostScript code for the sun.
+This design is a combination between several complex typography manipulations of glyphs of the font Egypt22 but many other design features like the vectorization of a mexican hat and the reuse of the PostScript code for the sun and star.
+
+The main concept was to give the idea of a mexican beer, like Sol or Corona, but "Viva Zapata" was craft, pure malt, and organic, and, thus, being kind of "revolutionary." It's the usual humor always present in the  other labels,  as well.
 
 ### Mexican Hat
 
