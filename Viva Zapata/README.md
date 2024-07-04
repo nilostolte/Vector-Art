@@ -2,7 +2,7 @@
 ## Viva Zapata
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/80269251/157075083-03f20635-e60b-4e1c-bc63-f52a9d95303e.png" width="511" height="365">
+  <img src="https://github.com/nilostolte/Vector-Art/assets/80269251/282eefb0-47cb-4ee4-acc7-a876d64ad085" width="511" height="365">
 </p>
 
 This design is a combination between several complex typography manipulations of glyphs of the font Egypt22 but many other design features like the vectorization of a mexican hat and the reuse of the PostScript code for the sun and star.
